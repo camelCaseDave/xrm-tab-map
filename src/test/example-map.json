@@ -1,0 +1,8 @@
+[
+    { "option": 804160000, "tab": "tab_yourDetails" },
+    { "option": 804160001, "tab": "tab_yourHistory" },
+    { "option": 804160002, "tab": "tab_backgroundChecks" },
+    { "option": 804160003, "tab": "tab_offer" },
+    { "option": 804160004, "tab": "tab_paymentDetails" },
+    { "option": 804160005, "tab": "tab_finalOffer" }
+]
